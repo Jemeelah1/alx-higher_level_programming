@@ -1,11 +1,14 @@
 # Python
+
 Welcome to the Python world!
+
 The first projects are more "C-oriented" - no tricks, no funky syntax - simple! If you've already played with Python, don't worry, fun things will come. You'll soon find that with Python (and the majority of higher level languages), there are ten different ways to do the same thing. Some tasks will expect only one implementation, while other tasks will have multiple possible implementations. Like C, Python also has a linter / style guide like Betty, called PEP8, also now known as PyCode.
 
 Enjoy!
 Guillaume
 Jemila Ibrahim(solo)
-alx_image
+![image](https://user-images.githubusercontent.com/83028679/185932606-0c031c76-5dfb-458e-88a4-48891add894d.png)
+
 
 The Zen of Python, by Tim Peters
 Beautiful is better than ugly.
