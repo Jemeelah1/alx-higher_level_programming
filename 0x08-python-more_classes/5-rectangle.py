@@ -24,7 +24,7 @@ class Rectangle:
             raise TypeError("width must be an integer")
         if value < 0:
             raise ValueError("width must be >= 0")
-         self.__width = value
+        self.__width = value
 
     @property
     def height(self):
@@ -70,5 +70,5 @@ class Rectangle:
         return (rect)
 
     def __del__(self):
-         """Print a message for every deletion of a Rectangle."""
-         print("Bye rectangle...")
+        """Print a message for every deletion of a Rectangle."""
+        print("Bye rectangle...")
