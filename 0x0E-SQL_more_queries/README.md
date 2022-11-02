@@ -21,3 +21,11 @@ Read or watch:
 Design
 > Normalization
 > ER Modeling
+
+Links for futher reading 🔬
+
+https://intellipaat.com/mediaFiles/2019/02/SQL-Commands-Cheat-Sheet.pdf
+https://web.csulb.edu/colleges/coe/cecs/dbdesign/dbdesign.php?page=sql/subqueries.php
+https://zetcode.com/mysql/constraints/
+https://tableplus.com/blog/2018/09/a-beginners-guide-to-seven-types-of-sql-joins.html
+https://www.youtube.com/watch?v=yPu6qV5byu4
